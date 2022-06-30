@@ -3,7 +3,7 @@
 
 <h3 align="center">Fullstack Developer, with an aim on Solidity and web3 development, from Argentina.</h3>
 
-- 🌱 I’m currently learning: **Solidity and SQL - Italian**
+- 🌱 I’m currently learning: **Ethereum Developer Program and Backend MERN - Italian**
 
 - 📫 You can reach me at: **martin.iglesias19@gmail.com**
 
